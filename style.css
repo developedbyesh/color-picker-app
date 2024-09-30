@@ -24,3 +24,24 @@ body {
 h1 {
   margin-bottom: 20px;
 }
+
+input[type='color'] {
+  border: none;
+  padding: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.color-box {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 1.2em;
+  color: #333;
+}
